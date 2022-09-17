@@ -55,3 +55,15 @@ body {
     padding: 18px 0px;
     margin: auto;
 }
+
+#on-the-menu p:last-child {
+    border-bottom:2px solid;
+}
+
+#on-the-menu p:hover {
+    background-color: chocolate;
+}
+
+p a {
+    color: #3e1d17;
+}
