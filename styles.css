@@ -13,8 +13,9 @@ body {
 }
 
 #cover-img {
-    max-height:  600px;
-    width: auto;
+    height: auto;
+    max-width: 1000px;
+    width: 90%;
 
     display: block;
     margin: auto;
@@ -23,6 +24,7 @@ body {
 }
 
 #menu {
+    max-width: 1000px;
     width: 90%;
 
     display: block;
@@ -78,8 +80,10 @@ p a {
 }
 
 .food-img {
-    max-height:  600px;
-    width: auto;
+    /*max-height:  600px;
+    width: auto;*/
+    max-width: 1000px;
+    width: 90%;
 
     display: block;
     margin: auto;
