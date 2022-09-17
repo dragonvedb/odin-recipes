@@ -1,0 +1,19 @@
+body {
+    background-color: sandybrown;
+}
+
+#main-title {
+    color: #3e1d17;
+    font-size: 50px;
+    text-align: center;
+}
+
+#cover-img {
+    height: auto;
+    width: 90%;
+
+    display: block;
+    margin: auto;
+
+    border:12px double ;
+}
