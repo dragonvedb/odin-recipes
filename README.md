@@ -17,4 +17,9 @@ It was a fun exercise. Hail Odin
 
 17 of September 2022:
 
-Returning to this project, because it turns out now I have to CSS style it to my heart's content. This is usually quite a hiccup for me, since I have no idea how a good site is supposed to look. Especially a good site that is quick to build, since I don't want to get bogged down for days here. I suppose I shouldn't stress too much over it; it's not like I'm showing it to anybody... 
+Returning to this project, because it turns out now I have to CSS style it to my heart's content. This is usually quite a hiccup for me, since I have no idea how a good site is supposed to look. Especially a good site that is quick to build, since I don't want to get bogged down for days here. I suppose I shouldn't stress too much over it; it's not like I'm showing it to anybody...
+
+
+couple hours later...
+
+I guess it's done. Very barebones design, but I think the color palette's got some charm. Could also add a "back to the top" button, but nah. All that's left is hosting the site on GitHub.
