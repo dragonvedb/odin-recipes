@@ -90,4 +90,5 @@ img {
 h3 {
     color: maroon;
     font-size: 26px;
+    border-bottom:2px solid maroon;
 }
