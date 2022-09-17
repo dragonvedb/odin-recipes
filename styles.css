@@ -1,6 +1,9 @@
 body {
     background-color: sandybrown;
+    color: #3e1d17;
 }
+
+/* Main Page styles*/
 
 #main-title {
     color: maroon;
@@ -38,8 +41,6 @@ body {
 
 #prelude,
 #on-the-menu p {
-    color: #3e1d17;
-
     font-size: 26px;
     text-align: center;
 }
@@ -66,4 +67,27 @@ body {
 
 p a {
     color: #3e1d17;
+}
+
+/*Recipe Page styles*/
+
+.recipe-title {
+    color: maroon;
+
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 90%;
+
+    display: block;
+    margin: auto;
+
+    border:12px double maroon;
+}
+
+h3 {
+    color: maroon;
+    font-size: 26px;
 }
