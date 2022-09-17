@@ -102,3 +102,13 @@ h3 {
     padding: 20px;
     max-width: 1200px;
 }
+
+.credits {
+    text-align: center;
+    color: rgba(62, 29, 23, 0.7);
+    font-style: italic;
+}
+
+.credits:hover {
+    color: rgba(62, 29, 23, 1);
+}
