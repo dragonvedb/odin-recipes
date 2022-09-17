@@ -13,8 +13,8 @@ body {
 }
 
 #cover-img {
-    height: auto;
-    width: 90%;
+    max-height:  600px;
+    width: auto;
 
     display: block;
     margin: auto;
@@ -77,9 +77,9 @@ p a {
     text-align: center;
 }
 
-img {
-    height: auto;
-    width: 90%;
+.food-img {
+    max-height:  600px;
+    width: auto;
 
     display: block;
     margin: auto;
